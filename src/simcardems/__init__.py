@@ -35,6 +35,8 @@ from .runner import Runner
 from .runner import TimeStepper
 from .version import __version__
 
+print("Hello from simcardems")
+
 
 def set_log_level(level):
     from daiquiri import set_default_log_levels
