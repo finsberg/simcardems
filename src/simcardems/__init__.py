@@ -35,7 +35,7 @@ from .runner import Runner
 from .runner import TimeStepper
 from .version import __version__
 
-print("Hello from simcardems")
+print("Hello from simcardems again")
 
 
 def set_log_level(level):
